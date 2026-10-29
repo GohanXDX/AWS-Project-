@@ -415,7 +415,7 @@ The most important troubleshooting lesson was to verify the route table actually
 
 ## Project Links
 
-- **GitHub Repository:** Add the repository URL after creating it.
+- **GitHub Repository:** https://github.com/GohanXDX/AWS-Project-/blob/main/README.md.
 - **Live Project URL:** Not applicable; this is a cloud networking lab, not a public web application.
 - **Project Report:** Add `Akshat_Yadav_EWB_VPC_Peering.pdf` to the `report/` folder if you want to publish it with the repository.
 
